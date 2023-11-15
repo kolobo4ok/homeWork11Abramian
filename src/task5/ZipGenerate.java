@@ -12,7 +12,6 @@ public class ZipGenerate {
     public ZipGenerate(Stream<Integer> first, Stream<Integer> second) {
         this.first = first;
         this.second = second;
-
     }
 
     //вивід у консоль

@@ -5,9 +5,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class FiltersNames {
-
     private final List<String> inputlist;
-
     public FiltersNames(List<String> inputlist) {
         this.inputlist = inputlist;
     }
